@@ -1,4 +1,2 @@
 # HWI04
-
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=50)
+[![KAKAOTALK](http://img.shields.io/badge/-Kakaotalk-f5f5f5?style=flat-square&logo=FF5722&link=https://open.kakao.com/HWI04)](https://open.kakao.com/HWI0)
