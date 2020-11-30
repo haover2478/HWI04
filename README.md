@@ -1,2 +1,2 @@
-# 아스트라
-![info](https://github-readme-stats.vercel.app/api?username=AstraKR&show_icons=true&theme=prussian)
+# HWI
+![info](https://github-readme-stats.vercel.app/api?username=HWI04&show_icons=true&theme=prussian)
